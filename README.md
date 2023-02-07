@@ -66,7 +66,7 @@
 
 依次选择pi -> Interface Options -> I2C/GPIO -> enable
 
-![rasp_I2C](.\Images\rasp_I2C.png)
+![rasp_I2C](https://github.com/MGod-monkey/Raspberry_Ups/tree/master/Images/rasp_I2C.png)
 
 ### 3. 安装树莓派中i2c驱动库smbus
 
@@ -90,7 +90,7 @@
 
   > sudo nano power.py
 
-​		<img src=".\Images\ups_config.png" alt="ups_config" style="zoom:60%;" />
+​		<img src="https://github.com/MGod-monkey/Raspberry_Ups/tree/master/Images/ups_config.png" alt="ups_config" style="zoom:60%;" />
 
 ctrl+o保存ctrl+x退出，接下来就一键安装就行
 
@@ -105,7 +105,7 @@ ctrl+o保存ctrl+x退出，接下来就一键安装就行
   > sudo systemctl status ups.service
   > ```
 
-![ups_success](.\Images\ups_success.png)
+![ups_success](https://github.com/MGod-monkey/Raspberry_Ups/tree/master/Images/ups_success.png)
 
 ### 5.安装Node-Red控制台，方便在网页上直观的显示数据
 
@@ -151,11 +151,11 @@ ctrl+o保存ctrl+x退出，接下来就一键安装就行
 访问网页http://{树莓派IP}:1880，进入后台，然后按照下面顺序依次点击，最后访问http://{树莓派IP}:1880/ui即可看到ups数据
 
 <center class="half">
-<img src=".\Images\ups_1.png" style="zoom:45%;"/>
-<img src=".\Images\ups_2.png" style="zoom:40%;"/>
+<img src="https://github.com/MGod-monkey/Raspberry_Ups/tree/master/Images/ups_1.png" style="zoom:45%;"/>
+<img src="https://github.com/MGod-monkey/Raspberry_Ups/tree/master/Images/ups_2.png" style="zoom:40%;"/>
 <p></p>
-<img src=".\Images\ups_3.png" style="zoom:100%;"/>
-<img src=".\Images\ups_ui.png" alt="ups_ui" style="zoom:60%;" />
+<img src="https://github.com/MGod-monkey/Raspberry_Ups/tree/master/Images/ups_3.png" style="zoom:100%;"/>
+<img src="https://github.com/MGod-monkey/Raspberry_Ups/tree/master/Images/ups_ui.png" alt="ups_ui" style="zoom:60%;" />
 </center>
 
 
