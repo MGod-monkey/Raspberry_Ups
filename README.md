@@ -22,6 +22,8 @@
 
 ## - 硬件部分
 
+> 嘉立创打板Gender：
+
 * Input:  4.5V - 14V DC, 2A - 5A
 * Output: 5V, up to 3A
 <p></p>
