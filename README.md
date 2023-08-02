@@ -22,7 +22,7 @@
 
 ## - 硬件部分
 
-> 嘉立创打板Gender：
+> 嘉立创打板Gender：[Gerber_PCB_rasp_pi_4b_ups.zip](https://github.com/MGod-monkey/Raspberry_Ups/blob/main/Hardware/Gerber_PCB_rasp_pi_4b_ups.zip)
 
 * Input:  4.5V - 14V DC, 2A - 5A
 * Output: 5V, up to 3A
